@@ -70,12 +70,12 @@ I'm always eager to learn new technologies, collaborate with teams, and take on 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MahiShukla-ms&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiShukla-ms&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=profile&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profile&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com/?user=MahiShukla-ms&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=profile&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahiShukla-ms&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=profile&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
